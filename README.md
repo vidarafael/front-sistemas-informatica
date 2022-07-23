@@ -8,4 +8,5 @@
 REACT_APP_API_URL=http://localhost:3000
 ```
 
-## Depois basta dar um 'yarn start'
+## Depois basta dar um 'yarn' para instalar as dependências
+## E um 'yarn start'
